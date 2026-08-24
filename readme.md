@@ -1,136 +1,149 @@
 <!-- ============================================================
      Vignesh K — GitHub Profile README
+     Theme: Black & Gold ✨
      ============================================================ -->
 
 <div align="center">
 
-<!-- 🖼️ BANNER PLACEHOLDER
-     Once you upload banner.png, place it in the same repo/folder as this
-     README (e.g. assets/banner.png) and this line will render it. -->
-<img src="./banner.png" alt="Vignesh K Banner" width="100%" />
+<img src="./assets/gold-divider.svg" width="100%" height="10" alt="" />
 
-<h1>Hi, I'm Vignesh K 👋</h1>
+<img src="./assets/banner.png" alt="Vignesh K Banner" width="100%" />
 
-<h3>High-impact Software Developer | CV & ML Enthusiast | Full-Stack Builder</h3>
+<img src="./assets/gold-divider.svg" width="100%" height="10" alt="" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=650&lines=Software+Developer+%7C+Problem+Solver;Computer+Vision+%2B+Machine+Learning;Building+the+future%2C+one+commit+at+a+time." alt="Typing SVG" />
 
 <p>
-  <a href="https://linkedin.com/in/vignesh-k-948388315"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/vigneshk1845"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/M9iiQQLnVQ"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="mailto:renugadevi792@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/LOCATION-Chennai%2C_India-000000?style=for-the-badge&labelColor=000000&color=FFD700" />
 </p>
+
+<p>
+  <a href="https://linkedin.com/in/vignesh-k-948388315"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700&labelColor=000000" /></a>
+  <a href="https://github.com/vigneshk1845"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=000000" /></a>
+  <a href="https://leetcode.com/u/M9iiQQLnVQ"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFD700&labelColor=000000" /></a>
+  <a href="mailto:vigneshk1845@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFD700&labelColor=000000" /></a>
+</p>
+
+<img src="./assets/gold-divider.svg" width="100%" height="10" alt="" />
 
 </div>
 
----
+<br/>
 
-### 🚀 About Me
+## <img src="https://img.shields.io/badge/-%3E_ABOUT_ME-000000?style=flat-square&color=FFD700" height="28"/>
 
 ```yaml
 name: Vignesh K
 role: Software Developer
 education: B.Tech in Information Technology @ V.S.B Engineering College (2023 – Present)
-location: Karur, Tamil Nadu, India
+location: Chennai / Karur, Tamil Nadu, India
 focus: Computer Vision • Machine Learning • Full-Stack Development
-motto: "Turning complex problems into elegant, well-documented code."
+quote: "The best way to predict the future is to build it." — Alan Kay
 ```
 
-I'm a Computer Science undergrad who loves building things that sit at the intersection of **AI/ML** and **practical software engineering** — from automated attendance systems to secure backend infrastructure. I enjoy sharpening my algorithmic thinking on LeetCode and shipping full-stack projects that solve real problems.
+> ✨ I'm a Computer Science undergrad who loves building things at the intersection of **AI/ML** and **practical software engineering** — from automated attendance systems to secure backend infrastructure. Sharpening my algorithmic edge on LeetCode while shipping full-stack projects that solve real problems.
 
----
+<br/>
 
-### 🛠️ Tech Stack
+## <img src="https://img.shields.io/badge/-%3E_TECH_STACK-000000?style=flat-square&color=FFD700" height="28"/>
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Structures-4B8BBE?style=flat-square" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FFD700&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Data%20Structures-000000?style=for-the-badge&labelColor=000000&color=FFD700" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-000000?style=for-the-badge&logo=opencv&logoColor=FFD700&labelColor=000000" />
 </p>
 
-**Soft Skills:** Problem-Solving · Innovative Thinking · Leadership · Critical Thinking · Adaptability
+**✦ Soft Skills:** Problem-Solving · Innovative Thinking · Leadership · Critical Thinking · Adaptability
 
----
+<br/>
 
-### 🎓 Education
+## <img src="https://img.shields.io/badge/-%3E_EDUCATION-000000?style=flat-square&color=FFD700" height="28"/>
 
-| Institution | Program | Duration | Location |
-|---|---|---|---|
-| **V.S.B Engineering College** | B.Tech, Information Technology (GPA: 7.8) | 2023 – Present | Karur, Tamil Nadu |
-| **Veveaham Higher Secondary School** | 12th Standard | 2022 – 2023 | Dharapuram, Tamil Nadu |
+<table>
+<tr><th align="left">🎓 Institution</th><th align="left">Program</th><th align="left">Duration</th><th align="left">Location</th></tr>
+<tr><td><b>V.S.B Engineering College</b></td><td>B.Tech, Information Technology (GPA: 7.8)</td><td>2023 – Present</td><td>Karur, Tamil Nadu</td></tr>
+<tr><td><b>Veveaham Higher Secondary School</b></td><td>12th Standard</td><td>2022 – 2023</td><td>Dharapuram, Tamil Nadu</td></tr>
+</table>
 
----
+<br/>
 
-### 🏆 Certifications
+## <img src="https://img.shields.io/badge/-%3E_CERTIFICATIONS-000000?style=flat-square&color=FFD700" height="28"/>
 
-- 🟢 **NPTEL** — Java Certification
-- 🔵 **Infosys** — Java Achievement
-- 🟡 **Infosys** — Python Achievement
+- 🏅 **NPTEL** — Java Certification
+- 🏅 **Infosys** — Java Achievement
+- 🏅 **Infosys** — Python Achievement
 
----
+<br/>
 
-### 💼 Experience
+## <img src="https://img.shields.io/badge/-%3E_EXPERIENCE-000000?style=flat-square&color=FFD700" height="28"/>
 
-**Software Developer Intern** — *Full-Stack Development Internship*
-- Gained hands-on experience with modern web technologies and frameworks
-- Sharpened problem-solving skills by solving algorithmic challenges on LeetCode using Java
-- Contributed to AI-driven projects involving machine learning applications
-- Collaborated across dynamic teams on ML/AI-powered initiatives
+**💼 Software Developer Intern** — *Full-Stack Development Internship*
+- ⚡ Gained hands-on experience with modern web technologies and frameworks
+- ⚡ Sharpened problem-solving skills tackling algorithmic challenges on LeetCode using Java
+- ⚡ Contributed to AI-driven projects involving machine learning applications
+- ⚡ Collaborated across dynamic teams on ML/AI-powered initiatives
 
----
+<br/>
 
-### 📌 Featured Projects
+## <img src="https://img.shields.io/badge/-%3E_FEATURED_PROJECTS-000000?style=flat-square&color=FFD700" height="28"/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🎥 CV & ML-Powered Class Monitoring System**
-Automated attendance tracking and classroom monitoring using Computer Vision and Machine Learning to streamline class management processes.
+### 🎥 CV & ML Class Monitoring
+Automated attendance tracking and classroom monitoring using **Computer Vision** and **Machine Learning**, streamlining class management processes.
 
 </td>
 <td width="50%" valign="top">
 
-**🔐 Smart API Manager**
-A secure API key management system with encrypted storage and access control, preventing unauthorized access to sensitive credentials.
+### 🔐 Smart API Manager
+A secure API key management system with **encrypted storage** and **access control**, preventing unauthorized access to sensitive credentials.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**📋 Online Complaint Management System**
-A full-stack web app with role-based access (Admin/Teacher/Student), enabling complaint raising, assignment, and real-time status tracking.
+### 📋 Complaint Management System
+Full-stack web app with **role-based access** (Admin/Teacher/Student) — complaint raising, assignment, and real-time status tracking.
 
 </td>
 <td width="50%" valign="top">
 
-**⚡ More coming soon...**
+### 🚀 More Coming Soon
 Currently exploring new ideas at the intersection of AI and full-stack development. Stay tuned!
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-### 📊 GitHub Stats
+## <img src="https://img.shields.io/badge/-%3E_GITHUB_STATS-000000?style=flat-square&color=FFD700" height="28"/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vigneshk1845&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshk1845&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vigneshk1845&show_icons=true&theme=chartreuse-dark&bg_color=000000&title_color=FFD700&icon_color=FFD700&text_color=ffffff&border_color=FFD700" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshk1845&theme=highcontrast&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&border=FFD700" width="48%" />
 </div>
 
----
+<br/>
 
 <div align="center">
 
-### 📫 Let's Connect
+<img src="./assets/gold-divider.svg" width="100%" height="10" alt="" />
+
+### <img src="https://img.shields.io/badge/-%3E_LET'S_CONNECT-000000?style=flat-square&color=FFD700" height="28"/>
 
 I'm always open to collaborating on interesting projects or discussing tech, AI, and problem-solving.
 
-📧 **renugadevi792@gmail.com** | 📱 **+91 93618 67898**
+📧 **vigneshk1845@gmail.com** &nbsp;|&nbsp; 📱 **+91 93618 67898**
 
-<sub>⭐ Thanks for stopping by — feel free to explore my repos!</sub>
+<sub>✨ Thanks for stopping by — feel free to explore my repos! ✨</sub>
+
+<img src="./assets/gold-divider.svg" width="100%" height="10" alt="" />
 
 </div>
