@@ -16,7 +16,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=650&lines=Software+Developer+%7C+Problem+Solver;Computer+Vision+%2B+Machine+Learning;Building+the+future%2C+one+commit+at+a+time." alt="Typing SVG" />
 
 <p>
-  <img src="https://img.shields.io/badge/LOCATION-Chennai%2C_India-000000?style=for-the-badge&labelColor=000000&color=FFD700" />
+  <img src="https://img.shields.io/badge/LOCATION-Tamil nadu%2C_India-000000?style=for-the-badge&labelColor=000000&color=FFD700" />
 </p>
 
 <p>
@@ -38,7 +38,7 @@
 name: Vignesh K
 role: Software Developer
 education: B.Tech in Information Technology @ V.S.B Engineering College (2023 – Present)
-location: Chennai / Karur, Tamil Nadu, India
+location: Palani, Tamil Nadu, India
 focus: Computer Vision • Machine Learning • Full-Stack Development
 quote: "The best way to predict the future is to build it." — Alan Kay
 ```
