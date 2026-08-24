@@ -7,7 +7,7 @@
 <!-- 🖼️ BANNER PLACEHOLDER
      Once you upload banner.png, place it in the same repo/folder as this
      README (e.g. assets/banner.png) and this line will render it. -->
-<img src="./assets/banner.png" alt="Vignesh K Banner" width="100%" />
+<img src="./banner.png" alt="Vignesh K Banner" width="100%" />
 
 <h1>Hi, I'm Vignesh K 👋</h1>
 
