@@ -5,11 +5,11 @@
 
 <div align="center">
 
-<img src="./assets/gold-divider.svg" width="100%" height="10" alt="" />
+<img src="./gold-divider.svg" width="100%" height="10" alt="" />
 
-<img src="./assets/banner.png" alt="Vignesh K Banner" width="100%" />
+<img src="./banner.png" alt="Vignesh K Banner" width="100%" />
 
-<img src="./assets/gold-divider.svg" width="100%" height="10" alt="" />
+<img src="./gold-divider.svg" width="100%" height="10" alt="" />
 
 <br/>
 
