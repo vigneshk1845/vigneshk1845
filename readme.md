@@ -20,7 +20,7 @@
 </p>
 
 <p>
-  <a href="https://linkedin.com/in/vignesh-k-948388315"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700&labelColor=000000" /></a>
+  <a href="[https://www.linkedin.com/in/vigneshk4577/]"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700&labelColor=000000" /></a>
   <a href="https://github.com/vigneshk1845"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=000000" /></a>
   <a href="https://leetcode.com/u/M9iiQQLnVQ"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFD700&labelColor=000000" /></a>
   <a href="mailto:vigneshk1845@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFD700&labelColor=000000" /></a>
