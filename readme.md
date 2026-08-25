@@ -140,7 +140,7 @@ Currently exploring new ideas at the intersection of AI and full-stack developme
 
 I'm always open to collaborating on interesting projects or discussing tech, AI, and problem-solving.
 
-📧 **vigneshk1845@gmail.com** &nbsp;|&nbsp; 📱 **+91 93618 67898**
+📧 **vigneshkzoro@gmail.com** &nbsp;|&nbsp; 📱 **+91 93618 67898**
 
 <sub>✨ Thanks for stopping by — feel free to explore my repos! ✨</sub>
 
